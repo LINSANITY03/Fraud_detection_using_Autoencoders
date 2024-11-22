@@ -4,5 +4,5 @@ Autoencoders are unsupervised neural networks used for anomaly detection. The id
 
 ## 1. Data Collection
 
-    I used [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download) dataset from kaggle.
+I used [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download) dataset from kaggle.
 
