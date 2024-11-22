@@ -8,7 +8,7 @@ I used [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/cre
 
 ## Directory Structure
 
-'''
+```
     Fraud_Detection/
     │
     ├── data/
@@ -42,4 +42,4 @@ I used [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/cre
     ├── requirements.txt         # Python dependencies
     ├── README.md                # Project overview and instructions
     └── config.yaml              # Configuration file for project-wide parameters
-'''
+```
