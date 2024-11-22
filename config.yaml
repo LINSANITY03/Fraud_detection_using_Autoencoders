@@ -1,0 +1,4 @@
+# Configuration file for project-wide parameters
+
+paths:
+  raw_data: "data/raw/creditcard.csv"
