@@ -1,4 +1,6 @@
 # Configuration file for project-wide parameters
+# All the path are generated from the root folder
 
 paths:
   raw_data: "data/raw/creditcard.csv"
+  processed_data: "data/preprocessed/creditcard.csv"
