@@ -37,10 +37,6 @@ Class: Fraudulent (1) or Non-fraudulent (0) transaction.
     │   ├── saved_models/        # Serialized models (e.g., .pkl, .h5)
     │   └── model_logs/          # Logs and checkpoints from training
     │
-    ├── logs/
-    │   ├── training_logs/       # Logs for training progress
-    │   └── experiment_logs/     # Logs for experiments
-    │
     ├── results/
     │   ├── figures/             # Visualizations, plots
     │   ├── reports/             # Analysis reports, markdowns

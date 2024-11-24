@@ -3,3 +3,4 @@ raw
 preprocessed
 .env
 .DS_Store
+models

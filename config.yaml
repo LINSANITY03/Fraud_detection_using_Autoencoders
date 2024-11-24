@@ -4,3 +4,9 @@
 paths:
   raw_data: "data/raw/creditcard.csv"
   processed_data: "data/preprocessed/creditcard.csv"
+  saved_model: "models/saved_models/"
+  logs: "models/model_logs/"
+
+model:
+  epochs: "50"
+  learning_rate: "0.001"
